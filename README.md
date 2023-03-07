@@ -1,2 +1,2 @@
-# Prepcourse-Henrry
-Repositorio de prueba del madulo 2 del prep de Henrry
+este es una prueba de como crear un repositorio y clonarlo desde git hub a mi computadora.
+
